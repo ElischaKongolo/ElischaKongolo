@@ -1,8 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=Elischa%20Kongolo&fontSize=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descColor=8AFF57&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=Elischa%20Imona%20Kongolo-Malunga&fontSize=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descColor=8AFF57&animation=fadeIn" />
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=$+whoami+%E2%86%92+Elischa+Kongolo;+$+skills+%E2%86%92+Full-Stack+%7C+Mobile+%7C+Automation;+$+cat+open-to.txt+%E2%86%92+Software+Engineering+roles" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=$+whoami+%E2%86%92+Elischa+Imona+Kongolo-Malunga;+$+skills+%E2%86%92+Full-Stack+%7C+Mobile+%7C+Automation;+$+cat+open-to.txt+%E2%86%92+Software+Engineering+roles" />
 
 <div align="center">
   
